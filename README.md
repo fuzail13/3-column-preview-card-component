@@ -29,9 +29,9 @@ Users should be able to:
 
 ### Links
 
-- Solution[Solution](https://github.com/fuzail13/3-column-preview-card-component/): 
-- Live Site URL: 
-## My process
+- [Solution](https://github.com/fuzail13/3-column-preview-card-component/)
+- [Live Site URL]()
+
 
 ### Built with
 
