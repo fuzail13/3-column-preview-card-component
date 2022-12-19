@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![image](https://github.com/fuzail13/3-column-preview-card-component/3-column preview card component.png)
+![image](https://github.com/fuzail13/3-column-preview-card-component/blob/main/3-column%20preview%20card%20component.png)
 
 
 ### Links
