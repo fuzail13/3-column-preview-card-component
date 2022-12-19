@@ -24,13 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
-![image](https://user-images.githubusercontent.com/64180671/153746689-fa837ca6-13ac-452c-942a-db49c9dc9d4a.png)
+![image](https://github.com/fuzail13/3-column-preview-card-component/.png)
 
 
 ### Links
 
 - [Solution](https://github.com/fuzail13/3-column-preview-card-component/)
-- [Live Site URL]()
+- [Live Site URL](https://fuzail13.github.io/3-column-preview-card-component/)
 
 
 ### Built with
