@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution: (https://github.com/fuzail13/3-column-preview-card-component/)
+- Solution[Solution](https://github.com/fuzail13/3-column-preview-card-component/): 
 - Live Site URL: 
 ## My process
 
